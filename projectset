@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-pytorch-mlpc-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-pytorch-mlpc-cpu-training",
+      "Tail":"-training"
+   }
+]
